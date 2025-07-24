@@ -1,0 +1,68 @@
+🔹 1. By Technical Focus
+🧮 Data Analyst (Entry to Mid-level)
+Types:
+
+Business/Data Analyst – insights for business decisions
+
+Product Analyst – analyze product performance
+
+Marketing Analyst – campaigns, customer behavior
+
+Financial Analyst – budgets, forecasts, investment models
+
+Skills: SQL, Excel, Tableau/Power BI, Python (Pandas, Matplotlib)
+
+🧠 Data Scientist (Mid to Advanced)
+Types:
+
+ML/Data Scientist – modeling, predictions, supervised/unsupervised learning
+
+Research Scientist – deep theoretical modeling (often PhD level)
+
+Applied Data Scientist – productionizing ML, A/B testing
+
+Skills: Python/R, Scikit-learn, PyTorch/TensorFlow, statistics, ML theory
+
+🔹 2. By Workflow Role
+🔧 Data Engineering Roles
+Build and maintain data pipelines, storage, ETL
+
+Often overlap with data scientists in small teams
+
+📦 MLOps/DataOps/DevOps for Data
+Focus on deployment, monitoring, and scaling ML models
+
+Tools: MLflow, Docker, DVC, Kubernetes, CI/CD pipelines
+
+🔍 Analytics/BI Engineer
+Halfway between analyst and engineer
+
+Build data models for analysts (dbt, LookML, BigQuery, etc.)
+
+🔹 3. By Industry Domain
+Healthcare Data Analyst/Scientist
+
+Finance/Quant Data Scientist
+
+Retail/E-commerce Analyst
+
+Sports Analyst
+
+Geospatial/Data Scientist (GIS)
+
+NLP/Data Scientist – focus on language data
+
+CV/Data Scientist – image/video data
+
+Each industry may require domain-specific knowledge, e.g. healthcare regulations, financial modeling, etc.
+
+🔹 4. Hybrid & Specialized Roles
+Data Product Manager – mix of PM + data skills
+
+AI/ML Engineer – production-level AI model development
+
+Quantitative Analyst (Quant) – high-frequency trading, risk modeling
+
+Decision Scientist – helps stakeholders make decisions based on models
+
+Data Journalist – storytelling with data
