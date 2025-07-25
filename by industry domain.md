@@ -81,12 +81,15 @@ I .Retail/E-commerce Analyst
      Communicate results in a clear, actionable way.
      
      Real position examples:
-     (1)<img width="1502" height="656" alt="image" src="https://github.com/user-attachments/assets/7faf5604-cfdf-4c54-a9e9-536155082814" />
+     (1)
+         <img width="2011" height="725" alt="image" src="https://github.com/user-attachments/assets/c64ca5fb-1fd7-433c-a045-fade8772391f" />
+         https://www.seek.co.nz/job/85958659?ref=search-standalone&type=promoted&origin=jobTitle#sol=234cce06791b88fa4b17df5fc2335f64a94bf876 
+         <img width="1688" height="1045" alt="image" src="https://github.com/user-attachments/assets/f7df6b28-d27f-457f-a7aa-29f85bbd87e6" />
+         
+
      
-        https://www.seek.co.nz/job/85958659?ref=search-standalone&type=promoted&origin=jobTitle#sol=234cce06791b88fa4b17df5fc2335f64a94bf876
-        <img width="2123" height="1021" alt="image" src="https://github.com/user-attachments/assets/cc29236b-d6b0-4f79-a241-12e02abcc15c" />
-         This role value"extracting insights and getting ideas" very much
-       
+     
+        
   
 
 
