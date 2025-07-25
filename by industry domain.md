@@ -87,7 +87,7 @@ I .Retail/E-commerce Analyst
          https://www.seek.co.nz/job/85958659?ref=search-standalone&type=promoted&origin=jobTitle#sol=234cce06791b88fa4b17df5fc2335f64a94bf876 
      <img width="1688" height="1045" alt="image" src="https://github.com/user-attachments/assets/68bce412-4411-45cd-9ce2-7289f97d6301" />
      <img width="1100" height="586" alt="image" src="https://github.com/user-attachments/assets/2417718f-1fb0-4241-b2f2-3032f1ba05f9" />
-
+https://github.com/zhanglll-yh/Data-analyst-sientist-jobs/blob/main/Screenshot%202025-07-25%20223341.png?raw=true
 
          
 
