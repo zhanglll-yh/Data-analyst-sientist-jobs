@@ -83,6 +83,8 @@ I .Retail/E-commerce Analyst
      Real position examples:
      (1)
         ![Screenshot](https://github.com/zhanglll-yh/Data-analyst-sientist-jobs/blob/main/Screenshot%202025-07-25%20223341.png?raw=true)
+        <img width="742" height="562" alt="image" src="https://github.com/user-attachments/assets/12c6162f-548d-4042-9793-f278395439b2" />
+
          
 
      
