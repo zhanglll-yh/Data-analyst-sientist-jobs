@@ -82,9 +82,8 @@
      
      Real position examples:
      (1)
-        <img width="1154" height="622" alt="image" src="https://github.com/user-attachments/assets/c95a785d-bdc7-4eed-87c0-5797cd0903ee" />
+       <img width="1332" height="600" alt="image" src="https://github.com/user-attachments/assets/859c3152-06d5-49aa-9628-fd10133e520c" />
 
-        <img width="742" height="562" alt="image" src="https://github.com/user-attachments/assets/12c6162f-548d-4042-9793-f278395439b2" />
 
          
 
