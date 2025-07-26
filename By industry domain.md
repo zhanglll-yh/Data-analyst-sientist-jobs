@@ -89,8 +89,16 @@
  https://www.seek.co.nz/job/85772234?ref=search-standalone&type=standard&origin=jobTitle#sol=75dc4cac5dd00904a7a655b96aab536f66531297
  <img width="1325" height="1109" alt="image" src="https://github.com/user-attachments/assets/752a8ca0-bb1c-4999-a236-2e86fad3f09f" />
  1 strong SQL,Excel ability
+
+ 
  2 Familiarity with data warehousing concepts and ETL processes
+
+ 
  3Experience with Databricks, Spark, or similar cloud data platforms
+
+
+ Those examples have in common:
+ 1.aility of handleling large,messy dataset
 
  
 
