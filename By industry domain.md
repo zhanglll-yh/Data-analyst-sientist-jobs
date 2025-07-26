@@ -82,5 +82,7 @@
  <img width="1332" height="600" alt="image" src="https://github.com/user-attachments/assets/c47de8e2-3ef6-4fb7-b9f4-6aa2ee58910b" />
  https://www.seek.co.nz/job/85958659?ref=search-standalone&type=promoted&origin=jobTitle#sol=234cce06791b88fa4b17df5fc2335f64a94bf876
  <img width="1976" height="1154" alt="image" src="https://github.com/user-attachments/assets/e39ae095-aee9-42ef-8989-f2d6c4d75b39" />
+ This role value the ability of "extracting insight and getting idea" very much
+ 
 
 
