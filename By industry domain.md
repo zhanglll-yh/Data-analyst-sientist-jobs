@@ -83,6 +83,17 @@
  https://www.seek.co.nz/job/85958659?ref=search-standalone&type=promoted&origin=jobTitle#sol=234cce06791b88fa4b17df5fc2335f64a94bf876
  <img width="1976" height="1154" alt="image" src="https://github.com/user-attachments/assets/e39ae095-aee9-42ef-8989-f2d6c4d75b39" />
  This role value the ability of "extracting insight and getting idea" very much
+
+ (2)
+ <img width="1649" height="1259" alt="image" src="https://github.com/user-attachments/assets/cc76271e-90ff-49e1-ae30-dcb81dc23c13" />
+ https://www.seek.co.nz/job/85772234?ref=search-standalone&type=standard&origin=jobTitle#sol=75dc4cac5dd00904a7a655b96aab536f66531297
+ <img width="1325" height="1109" alt="image" src="https://github.com/user-attachments/assets/752a8ca0-bb1c-4999-a236-2e86fad3f09f" />
+ 1 strong SQL,Excel ability
+ 2 Familiarity with data warehousing concepts and ETL processes
+ 3Experience with Databricks, Spark, or similar cloud data platforms
+
+ 
+
  
 
 
