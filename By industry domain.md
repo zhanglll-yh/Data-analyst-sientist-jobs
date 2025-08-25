@@ -52,6 +52,7 @@
  
  
  🔎 Active Job Openings in NZ
+ https://chatgpt.com/s/dr_68abe68e0e3881918b3a02295a2282cc
  There are currently hundreds of Data Analyst opportunities in NZ listed on Seek, Jora, and Recruit.net. Roles include Retail/E-commerce Analyst, Commercial Analyst, Demand Planning Analyst, and BI/Insights Analyst.
  
  Notable Listings:
